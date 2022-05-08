@@ -29,3 +29,32 @@ https://podtail.com/en/podcast/top-flight-time-machine/the-hermit/  <br />
 https://podtail.com/en/podcast/top-flight-time-machine/the-coin-king/  <br />
 https://podtail.com/en/podcast/top-flight-time-machine/chip-shop-anxiety/  <br />
 https://podtail.com/en/podcast/top-flight-time-machine/sports-bag-kebabs/  <br />
+
+https://podtail.com/en/podcast/top-flight-time-machine/imaginary-football-worlds/
+https://podtail.com/en/podcast/top-flight-time-machine/more-imaginary-football-worlds/
+https://podtail.com/en/podcast/top-flight-time-machine/batman-s-neck/
+https://podtail.com/en/podcast/top-flight-time-machine/davey-the-canoe/
+https://podtail.com/en/podcast/top-flight-time-machine/nick-knowles-self-surgery/
+https://podtail.com/en/podcast/top-flight-time-machine/earth-tournament-2019-update/
+https://podtail.com/en/podcast/top-flight-time-machine/drug-taking-idiot/
+https://podtail.com/en/podcast/top-flight-time-machine/the-italian-urn/
+https://podtail.com/en/podcast/top-flight-time-machine/xos-vin/
+https://podtail.com/en/podcast/top-flight-time-machine/tramp-hand/
+https://podtail.com/en/podcast/top-flight-time-machine/bumcrease/
+https://podtail.com/en/podcast/top-flight-time-machine/massive-chip-spoon/
+https://podtail.com/en/podcast/top-flight-time-machine/big-galaxy-v-glastonbury/
+https://podtail.com/en/podcast/top-flight-time-machine/kylie-s-eggs/
+https://podtail.com/en/podcast/top-flight-time-machine/school-fairs-and-narrowboats/
+https://podtail.com/en/podcast/top-flight-time-machine/lord-sebastian-s-hotel/
+https://podtail.com/en/podcast/top-flight-time-machine/blame-the-alphabet/
+https://podtail.com/en/podcast/top-flight-time-machine/human-barbecue/
+https://podtail.com/en/podcast/top-flight-time-machine/franky-stu-vs-suus-kiis/
+https://podtail.com/en/podcast/top-flight-time-machine/the-badger-stoat-hawk-rabbit-axis/
+https://podtail.com/en/podcast/top-flight-time-machine/badger-stand-off/
+https://podtail.com/en/podcast/top-flight-time-machine/ken-s-elliot/
+https://podtail.com/en/podcast/top-flight-time-machine/pards-for-monaco/
+https://podtail.com/en/podcast/top-flight-time-machine/geoff-capes-goes-to-davos/
+https://podtail.com/en/podcast/top-flight-time-machine/the-shanklin-report/
+https://podtail.com/en/podcast/top-flight-time-machine/chocolating/
+https://podtail.com/en/podcast/top-flight-time-machine/toxic-masculinity-buns/
+https://podtail.com/en/podcast/top-flight-time-machine/podcast-for-the-hooch-generation/
