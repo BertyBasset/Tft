@@ -134,6 +134,11 @@ https://podtail.com/en/podcast/top-flight-time-machine/almost-live-from-leeds/<b
 https://podtail.com/en/podcast/top-flight-time-machine/dental-hijacking/<br />
 https://podtail.com/en/podcast/top-flight-time-machine/russian-sunday-dinner/<br />
 https://podtail.com/en/podcast/top-flight-time-machine/identical-shep/<br />
+
+<br />
+<<
+<br />
+
 https://podtail.com/en/podcast/top-flight-time-machine/the-football-episode/<br />
 https://podtail.com/en/podcast/top-flight-time-machine/dental-nightmare/<br />
 https://podtail.com/en/podcast/top-flight-time-machine/pub-car-park/<br />
@@ -170,3 +175,85 @@ https://podtail.com/en/podcast/top-flight-time-machine/the-charity-safety-net/<b
 https://podtail.com/en/podcast/top-flight-time-machine/biscuit-biscuits/<br />
 https://podtail.com/en/podcast/top-flight-time-machine/the-new-normal/<br />
 https://podtail.com/en/podcast/top-flight-time-machine/new-fox/<br />
+15 May 2020 <br />
+https://podtail.com/en/podcast/top-flight-time-machine/hail-zito-morco/<br />
+https://podtail.com/en/podcast/top-flight-time-machine/the-spirit-of-lonely-water/<br />
+https://podtail.com/en/podcast/top-flight-time-machine/salmon-buttons/<br />
+https://podtail.com/en/podcast/top-flight-time-machine/voyeur-stag/<br />
+https://podtail.com/en/podcast/top-flight-time-machine/it-s-back/<br />
+https://podtail.com/en/podcast/top-flight-time-machine/train-beer-teacher/<br />
+https://podtail.com/en/podcast/top-flight-time-machine/a-view-to-a-kill/<br />
+https://podtail.com/en/podcast/top-flight-time-machine/grandad-s-football-boast/<br />
+https://podtail.com/en/podcast/top-flight-time-machine/up-the-gelato/<br />
+https://podtail.com/en/podcast/top-flight-time-machine/ripley-wilcox-clone-army/<br />
+https://podtail.com/en/podcast/top-flight-time-machine/paternal-hand-holding/<br />
+https://podtail.com/en/podcast/top-flight-time-machine/sas-bbq/<br />
+https://podtail.com/en/podcast/top-flight-time-machine/personal-ice-cream-service/<br />
+https://podtail.com/en/podcast/top-flight-time-machine/the-xerox-perpetuity/<br />
+https://podtail.com/en/podcast/top-flight-time-machine/business-geese/<br />
+https://podtail.com/en/podcast/top-flight-time-machine/andy-three-hammocks/<br />
+https://podtail.com/en/podcast/top-flight-time-machine/resultsbot-and-ernie/<br />
+https://podtail.com/en/podcast/top-flight-time-machine/ifs-big-week/<br />
+https://podtail.com/en/podcast/top-flight-time-machine/louie/<br />
+https://podtail.com/en/podcast/top-flight-time-machine/ortolan-zeitgeist/<br />
+https://podtail.com/en/podcast/top-flight-time-machine/smelting/<br />
+https://podtail.com/en/podcast/top-flight-time-machine/the-air/<br />
+https://podtail.com/en/podcast/top-flight-time-machine/split-from-split/<br />
+https://podtail.com/en/podcast/top-flight-time-machine/top-dollar-or-casual-bloke/<br />
+https://podtail.com/en/podcast/top-flight-time-machine/best-times-worst-times/<br />
+https://podtail.com/en/podcast/top-flight-time-machine/roger-taylor-s-dishoom-voucher/<br />
+https://podtail.com/en/podcast/top-flight-time-machine/van-day/<br />
+https://podtail.com/en/podcast/top-flight-time-machine/cinema-snack-fiasco/<br />
+https://podtail.com/en/podcast/top-flight-time-machine/canal-lampard-encounter/<br />
+https://podtail.com/en/podcast/top-flight-time-machine/the-unwinnable-del-boy/<br />
+https://podtail.com/en/podcast/top-flight-time-machine/ask-pele/<br />
+https://podtail.com/en/podcast/top-flight-time-machine/glamping-blood-feud/<br />
+https://podtail.com/en/podcast/top-flight-time-machine/creature-market/<br />
+https://podtail.com/en/podcast/top-flight-time-machine/billionaire-skip-wars/<br />
+https://podtail.com/en/podcast/top-flight-time-machine/six-times-a-day/<br />
+https://podtail.com/en/podcast/top-flight-time-machine/dream-radio-hero-work/<br />
+https://podtail.com/en/podcast/top-flight-time-machine/premier-league-preview-20-21/<br />
+https://podtail.com/en/podcast/top-flight-time-machine/resultsbot-s-halfway-house/<br />
+https://podtail.com/en/podcast/top-flight-time-machine/floppy-criminals/<br />
+https://podtail.com/en/podcast/top-flight-time-machine/countdown-bath/<br />
+https://podtail.com/en/podcast/top-flight-time-machine/pumpkin-discount/<br />
+https://podtail.com/en/podcast/top-flight-time-machine/top-flight-millionaires/<br />
+https://podtail.com/en/podcast/top-flight-time-machine/fleet-foot-frankie/<br />
+https://podtail.com/en/podcast/top-flight-time-machine/reflections-on-the-wall/<br />
+https://podtail.com/en/podcast/top-flight-time-machine/kid-football-passport-scam/<br />
+https://podtail.com/en/podcast/top-flight-time-machine/continental-breakfast-unboxed/<br />
+https://podtail.com/en/podcast/top-flight-time-machine/covid-cul-de-sac/<br />
+https://podtail.com/en/podcast/top-flight-time-machine/another-football-episode/<br />
+https://podtail.com/en/podcast/top-flight-time-machine/check-your-bits/<br />
+https://podtail.com/en/podcast/top-flight-time-machine/danny-dyer-vs-the-style-council/<br />
+https://podtail.com/en/podcast/top-flight-time-machine/sunderland-hot-bodies/<br />
+https://podtail.com/en/podcast/top-flight-time-machine/-daddy-why-did-you-lie/<br />
+https://podtail.com/en/podcast/top-flight-time-machine/the-joy-of-cnn/<br />
+https://podtail.com/en/podcast/top-flight-time-machine/all-the-trimmings/<br />
+https://podtail.com/en/podcast/top-flight-time-machine/koi-carp-for-cockneys/<br />
+https://podtail.com/en/podcast/top-flight-time-machine/gladiators-and-wispas/<br />
+https://podtail.com/en/podcast/top-flight-time-machine/a-cockney-at-oxford/<br />
+https://podtail.com/en/podcast/top-flight-time-machine/diego-maradona/<br />
+https://podtail.com/en/podcast/top-flight-time-machine/icelandic-christmas-folklore/<br />
+https://podtail.com/en/podcast/top-flight-time-machine/non-dyer-wall-talk/<br />
+https://podtail.com/en/podcast/top-flight-time-machine/terry-nutkins-v-johnny-depp/<br />
+https://podtail.com/en/podcast/top-flight-time-machine/reginald-bosanquet-s-disco/<br />
+https://podtail.com/en/podcast/top-flight-time-machine/pervert-story/<br />
+https://podtail.com/en/podcast/top-flight-time-machine/mouse-emergency/<br />
+Jan 2021
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
