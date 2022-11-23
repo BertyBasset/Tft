@@ -296,4 +296,3 @@ https://podtail.com/en/podcast/top-flight-time-machine/sam-and-the-receptionist/
 
 
 
-![image](https://user-images.githubusercontent.com/24543105/200637258-8540838a-e9b5-48d8-8832-02cd318c75af.png)
