@@ -60,7 +60,7 @@ Trigger Warning: Breathing Discussion https://sphinx.acast.com/p/acast/s/topflig
 Europa Fire Shooters https://sphinx.acast.com/p/acast/s/topflighttimemachine/e/6157163eb7a2a900132cde42/media.mp3<br />
 Life Logistics - Ejector Seat Blame Game https://sphinx.acast.com/p/acast/s/topflighttimemachine/e/61537ad645028c0013ee9c13/media.mp3<br />
 Apple Episode https://sphinx.acast.com/p/acast/s/topflighttimemachine/e/61519bb7dc5ae20019cfa367/media.mp3<br />
-Ideas https://sphinx.acast.com/p/acast/s/topflighttimemachine/e/614dcc7b7e541900131072c5/media.mp3v
+Ideas https://sphinx.acast.com/p/acast/s/topflighttimemachine/e/614dcc7b7e541900131072c5/media.mp3<br />
 Life Logistics - Bring Back Fat Wallet https://sphinx.acast.com/p/acast/s/topflighttimemachine/e/6148a74114470f00199c3c0c/media.mp3<br />
 Lee Bowyer's Wet Trousers https://sphinx.acast.com/p/acast/s/topflighttimemachine/e/61478b3100553d0013fa0606/media.mp3<br />
 Canal Boat Death Wish https://sphinx.acast.com/p/acast/s/topflighttimemachine/e/6144cff02b4d46001243042b/media.mp3<br />
