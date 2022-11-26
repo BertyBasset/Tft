@@ -1,12 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
-
-using PodDownload;
-using System.Net;
-using System.Runtime.CompilerServices;
+﻿using PodDownload;
 using System.Text.Json;
-using System.Text.Json.Serialization;
-using System.IO;
-using System;
 
 
 if (args.Length < 2) {
@@ -14,20 +7,14 @@ if (args.Length < 2) {
     return;
 }
 
+string exePath = new FileInfo(System.Reflection.Assembly.GetExecutingAssembly().Location).Directory.FullName;
 
-
-string exePath = (new FileInfo(System.Reflection.Assembly.GetExecutingAssembly().Location)).Directory.FullName;
-
-
-//string jsonFileListPath = Path.GetFullPath(args[0], exePath);
 
 string jsonDownloadListFileSpec = Path.GetFullPath(Path.Combine(exePath, args[0]));
 string downloadFolder = Path.GetFullPath(args[1], exePath);
 
 if (!downloadFolder.EndsWith("/") && !downloadFolder.EndsWith("\\"))
     downloadFolder += "\\";
-
-
 
 // Check these two exist
 if (!System.IO.File.Exists(jsonDownloadListFileSpec)) { 
@@ -40,7 +27,7 @@ if (!System.IO.Directory.Exists(downloadFolder)) {
 }
 
 
-List<Pod> podCasts = null;
+List<Pod> podCasts = new();
 try {
     podCasts = JsonSerializer.Deserialize<List<Pod>>(System.IO.File.ReadAllText(jsonDownloadListFileSpec));
 } catch (Exception) {
@@ -53,7 +40,7 @@ try {
 int count = 0;
 int success = 0;
 int skipped = 0;
-
+ 
 var httpClient = new HttpClient();
 
 
