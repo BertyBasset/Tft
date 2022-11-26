@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "PodDownload": {
+      "commandName": "Project",
+      "commandLineArgs": "../../../../files.json ../../../../downloads"
+    }
+  }
+}
