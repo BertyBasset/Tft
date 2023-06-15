@@ -122,6 +122,9 @@
 <tr><td style='text-align:right'>22 Oct 2021</td><td><a href='https://sphinx.acast.com/p/acast/s/topflighttimemachine/e/6171ce66d813fb0013bd49c8/media.mp3'>Loyd Grosman's Breakfast Relish</a></td></tr>
 <tr><td style='text-align:right'>18 Oct 2021</td><td><a href='https://sphinx.acast.com/p/acast/s/topflighttimemachine/e/616d54f16b128c0018f49c2f/media.mp3'>Pizza Meh</a></td></tr>
 <tr><td style='text-align:right'>15 Oct 2021</td><td><a href='https://sphinx.acast.com/p/acast/s/topflighttimemachine/e/61695cf6eccd190012698083/media.mp3'>Imaginary Dogs</a></td></tr>
+
+
+  
 <tr><td style='text-align:right'>12 Oct 2021</td><td><a href='https://sphinx.acast.com/p/acast/s/topflighttimemachine/e/6164b2f1701ebd001a77f13d/media.mp3'>Life Logistics - The £5 Spoon</a></td></tr>
 <tr><td style='text-align:right'>11 Oct 2021</td><td><a href='https://sphinx.acast.com/p/acast/s/topflighttimemachine/e/61633a5c26141b0013cb7256/media.mp3'>Sunday Knockers</a></td></tr>
 <tr><td style='text-align:right'>6 Oct 2021</td><td><a href='https://sphinx.acast.com/p/acast/s/topflighttimemachine/e/616019ebfabcb80012c0f206/media.mp3'>Turkey v Norway</a></td></tr>
@@ -142,7 +145,11 @@
 <tr><td style='text-align:right'>3 Sep 2021</td><td><a href='https://sphinx.acast.com/p/acast/s/topflighttimemachine/e/6131fd779cc4c7001301f5f0/media.mp3'>Hammers Meet Hipsters</a></td></tr>
 <tr><td style='text-align:right'>31 Aug 2021</td><td><a href='https://sphinx.acast.com/p/acast/s/topflighttimemachine/e/612de49d6dc25c001a55011f/media.mp3'>Life Logistics - Deep Fat Drying</a></td></tr>
 <tr><td style='text-align:right'>30 Aug 2021</td><td><a href='https://sphinx.acast.com/p/acast/s/topflighttimemachine/e/612bde816dc25c001a54ff64/media.mp3'>There's Noting Bigger than Turbo</a></td></tr>
-<tr><td style='text-align:right'>27 Aug 2021</td><td><a href='https://sphinx.acast.com/p/acast/s/topflighttimemachine/e/6128cb2a4356cb0012eca10e/media.mp3'>RIP Dave Harper</a></td></tr>
+<tr><td style='text-align:right'>27 Aug 2021</td><td><a href='https://podtail.com/en/podcast/top-flight-time-machine/rip-dave-harper/'>RIP Dave Harper</a></td></tr>
+
+
+
+  
 <tr><td style='text-align:right'>24 Aug 2021</td><td><a href='https://sphinx.acast.com/p/acast/s/topflighttimemachine/e/5924ad33-d0fd-4498-813f-bd03cd6550b4/media.mp3'>Life Logistics - School Run Goose</a></td></tr>
 <tr><td style='text-align:right'>23 Aug 2021</td><td><a href='https://sphinx.acast.com/p/acast/s/topflighttimemachine/e/b0572761-483f-41bb-b49f-71cfda39b0b2/media.mp3'>The Nature of Taste</a></td></tr>
 <tr><td style='text-align:right'>20 Aug 2021</td><td><a href='https://sphinx.acast.com/p/acast/s/topflighttimemachine/e/a5614b4a-95b6-4586-928f-d6c7dcf9f8a7/media.mp3'>Posting a Beard to the Queen</a></td></tr>
