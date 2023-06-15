@@ -145,7 +145,7 @@
 <tr><td style='text-align:right'>3 Sep 2021</td><td><a href='https://sphinx.acast.com/p/acast/s/topflighttimemachine/e/6131fd779cc4c7001301f5f0/media.mp3'>Hammers Meet Hipsters</a></td></tr>
 <tr><td style='text-align:right'>31 Aug 2021</td><td><a href='https://sphinx.acast.com/p/acast/s/topflighttimemachine/e/612de49d6dc25c001a55011f/media.mp3'>Life Logistics - Deep Fat Drying</a></td></tr>
 <tr><td style='text-align:right'>30 Aug 2021</td><td><a href='https://sphinx.acast.com/p/acast/s/topflighttimemachine/e/612bde816dc25c001a54ff64/media.mp3'>There's Noting Bigger than Turbo</a></td></tr>
-<tr><td style='text-align:right'>27 Aug 2021</td><td><a href='https://podtail.com/en/podcast/top-flight-time-machine/rip-dave-harper/'>RIP Dave Harper</a></td></tr>
+<tr><td style='text-align:right'>27 Aug 2021</td><td><a href='https://sphinx.acast.com/p/acast/s/topflighttimemachine/e/6128cb2a4356cb0012eca10e/media.mp3'>RIP Dave Harper</a></td></tr>
 
 
 
