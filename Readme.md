@@ -910,8 +910,8 @@
 <tr><td style='text-align:right'>14 Nov 2021</td><td><a href='https://sphinx.acast.com/p/acast/s/topflighttimemachine/e/6191405185a54d00139784f5/media.mp3'>Top Flight Tune Machine - 12/11/1995 Part 1</a></td></tr>
 <tr><td style='text-align:right'>31 Oct 2021</td><td><a href='https://sphinx.acast.com/p/acast/s/topflighttimemachine/e/61708a05a77ebf001a66ba26/media.mp3'>Top Flight Tune Machine - 3/6/1970</a></td></tr>
 <tr><td style='text-align:right'>17 Oct 2021</td><td><a href='https://sphinx.acast.com/p/acast/s/topflighttimemachine/e/61604818e70d750013c4ce77/media.mp3'>Top Flight Tune Machine - 14/8/1974</a></td></tr>
-<tr><td style='text-align:right'>26 Sep 2021</td><td><a href='https://sphinx.acast.com/p/acast/s/topflighttimemachine/e/614f8f63e7e75c00112b1b84/media.mp3'>Top Flight Tune Machine - 4/11/1997 Part 2</a></td></tr>
-<tr><td style='text-align:right'>12 Sep 2021</td><td><a href='https://sphinx.acast.com/p/acast/s/topflighttimemachine/e/613b6c3144704b001240d250/media.mp3'>Top Flight Tune Machine - 4/11/1997 Part 1</a></td></tr>
+<tr><td style='text-align:right'>26 Sep 2021</td><td><a href='https://sphinx.acast.com/p/acast/s/topflighttimemachine/e/614f8f63e7e75c00112b1b84/media.mp3'>Top Flight Tune Machine - 4/11/1977 Part 2</a></td></tr>
+<tr><td style='text-align:right'>12 Sep 2021</td><td><a href='https://sphinx.acast.com/p/acast/s/topflighttimemachine/e/613b6c3144704b001240d250/media.mp3'>Top Flight Tune Machine - 4/11/1977 Part 1</a></td></tr>
 <tr><td style='text-align:right'>30 Aug 2021</td><td><a href='https://sphinx.acast.com/p/acast/s/topflighttimemachine/e/612cde9e886fa300120fc305/media.mp3'>Top Flight Tune Machine - 28/2/1988 Part 2</a></td></tr>
 <tr><td style='text-align:right'>15 Aug 2021</td><td><a href='https://sphinx.acast.com/topflighttimemachine/topflighttunemachine-28-02-1988part1/media.mp3'>Top Flight Tune Machine - 28/2/1988 Part 1</a></td></tr>
 <tr><td style='text-align:right'>25 Jul 2021</td><td><a href='https://sphinx.acast.com/topflighttimemachine/topflighttunemachine-18-02-1987part2/media.mp3'>Top Flight Tune Machine - 18/2/1987 Part 2</a></td></tr>
